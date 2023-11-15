@@ -2,8 +2,4 @@
 
 # Correction de bug
 
-Feature commit 1
-
-Feature commit 2
-
-2.0
+Branche release crée git

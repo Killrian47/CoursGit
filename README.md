@@ -1,3 +1,3 @@
-# CoursG
+# CoursGit
 
-Test de collaborateurs
+# Correction de bug
